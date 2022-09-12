@@ -1,0 +1,39 @@
+mat-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  } 
+
+  button {
+    float: right;
+    color: #2196f3;
+    margin-right: auto;
+}
+
+example-radio-group{
+  margin: 3px;
+  padding: 10px;
+
+}
+
+#gender{
+  padding: 5px;
+}
+
+#avatar{
+  width: 95%;
+}
+
+.width-100 {
+  padding-left: 10px;
+}
+
+mat-radio-group{
+  padding: 5px;
+  margin: 5px;
+}
+
+
+
